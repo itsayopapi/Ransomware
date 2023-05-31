@@ -1,2 +1,6 @@
-# Ransomware
-This is strictly for educational purposes and not for malicious intent. I'm not liable for any damages caused while attempting this. 
+# Ransomware👨‍💻😈
+
+<br>
+This malicious script made for only educational
+purpose please don't use it for any bad purpose
+and without permission.
