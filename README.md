@@ -6,6 +6,7 @@ purpose please don't use it for any bad purpose
 and without permission.
 
 <br>
+
 # To test the Ransomware out on your machine,
 
 * edit lines 49 and 140 in the ransomware.py file with your own absolute paths etc for testing purposes and so you can use the localRoot folder
